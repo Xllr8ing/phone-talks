@@ -1,0 +1,10 @@
+data:
+  data:
+    tts_text: >-
+      Sir, the home alarm is {{states  ('switch.alarm_status') }} and  {{states
+      ('alarm_control_panel.home_alarm') }}. and a low of
+         Today's Allergy and Pollen rating is at {{states    
+        ('sensor.allergy_index_today') }} {{    
+        state_attr('sensor.allergy_index_today', 'rating') }}. Can I help you with anything?
+  message: TTS
+action: notify.mobile_app_note20 #Your device name here
