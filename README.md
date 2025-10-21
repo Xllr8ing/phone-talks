@@ -1,5 +1,5 @@
 # phone-talks
-Automation to get you phone or tablet to talk
+Script to get you phone or tablet to talk. This is a script.
 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/xllr8ing)
